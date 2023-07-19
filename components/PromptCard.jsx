@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const PromptCard = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return <div>PromptCard</div>;
+};
 
-export default PromptCard
+export default PromptCard;
